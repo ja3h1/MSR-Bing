@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.msr.app-merged_res-43:/mipmap_ic_launcher.xml.flat",
+        "source": "com.msr.app-main-45:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.msr.app-merged_res-43:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.msr.app-main-45:/mipmap/ic_launcher_round.xml"
+    }
+]
