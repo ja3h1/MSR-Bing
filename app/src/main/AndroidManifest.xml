@@ -9,11 +9,11 @@
         android:label="MSR Search"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@android:style/Theme.Material3.Dark">
+        android:theme="@style/Theme.MSRApp">
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:theme="@android:style/Theme.Material3.Dark">
+            android:theme="@style/Theme.MSRApp">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

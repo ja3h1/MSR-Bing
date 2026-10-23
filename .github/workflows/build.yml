@@ -29,7 +29,7 @@ jobs:
 
       - name: Build Debug APK
         run: |
-          if [ -f "./gradlew" ] && [ -f "./gradle/wrapper/gradle-wrapper.jar" ]; then
+          if [ -f "./gradlew" ]; then
             ./gradlew assembleDebug --no-daemon
           else
             gradle assembleDebug --no-daemon
