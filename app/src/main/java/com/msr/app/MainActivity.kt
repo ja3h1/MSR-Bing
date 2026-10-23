@@ -95,7 +95,7 @@ fun App() {
                         Icon(Icons.Default.Warning, contentDescription = null, tint = NeonRed)
                         Spacer(Modifier.width(8.dp))
                         Text(
-                            text = ""Warning": Take at your own Risk",
+                            text = "Warning: Take at your own Risk",
                             color = NeonRed,
                             fontSize = 13.sp,
                             fontWeight = FontWeight.Bold
