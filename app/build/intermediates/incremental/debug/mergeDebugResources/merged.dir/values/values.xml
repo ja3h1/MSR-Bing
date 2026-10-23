@@ -206,7 +206,7 @@
         <item name="android:textColor">?android:attr/textColorSecondary</item>
     </style>
     <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
-    <style name="Theme.MSRApp" parent="android:Theme.Material.NoTitleBar"/>
+    <style name="Theme.MSRApp" parent="@android:style/Theme.Material.NoActionBar"/>
     <style name="Widget.Compat.NotificationActionContainer" parent=""/>
     <style name="Widget.Compat.NotificationActionText" parent=""/>
     <declare-styleable name="Capability">

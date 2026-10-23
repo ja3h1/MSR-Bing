@@ -4,7 +4,7 @@
             "outputFile": "com.msr.app-mergeDebugResources-39:/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Lester\\.gradle\\caches\\9.6.0\\transforms\\3f89fd533ae424bdec440891c733fbc6\\transformed\\core-1.12.0\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\Lester\\.gradle\\caches\\transforms-3\\d1e4a685b1001794fbcfe4ee9c157a7e\\transformed\\core-1.12.0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Lester\\.gradle\\caches\\9.6.0\\transforms\\3130625df7e921610e4e89fd5c95a787\\transformed\\ui-release\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\Lester\\.gradle\\caches\\transforms-3\\a19e8573cf049943d51dd30da21f32bf\\transformed\\ui-release\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Lester\\.gradle\\caches\\9.6.0\\transforms\\d3ee35bbc14f002648b7700538b73ca7\\transformed\\material3-release\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\Lester\\.gradle\\caches\\transforms-3\\31af2b2af7621a0f8014b28fb9dc06b9\\transformed\\material3-release\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Lester\\.gradle\\caches\\9.6.0\\transforms\\8df2840e9d11085d52c7984d90ed5581\\transformed\\foundation-release\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\Lester\\.gradle\\caches\\transforms-3\\5bd19b78dcd91719078506788dd42a50\\transformed\\foundation-release\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
